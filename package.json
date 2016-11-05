@@ -1,0 +1,16 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^3.5.5",
+    "moment": "^2.15.1",
+    "sl-api": "^1.0.3",
+    "weather-yahoo": "https://github.com/christopherL91/yahoo-weather"
+  }
+}
